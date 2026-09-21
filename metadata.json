@@ -1,0 +1,6 @@
+{
+  "name": "ProServiços",
+  "description": "Plataforma de orçamentos e serviços com validação facial, micropáginas para prestadores e chat em tempo real com geolocalização.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
